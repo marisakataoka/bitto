@@ -1,4 +1,4 @@
-![HomepagePic](bitto/IMG_0628.jpg)
+![Homepage Cover](https://user-images.githubusercontent.com/29809702/27895370-5df9319c-61e0-11e7-9e0d-753d572f9b43.jpg)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/marisakataoka/bitto/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
