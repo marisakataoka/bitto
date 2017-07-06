@@ -1,1 +1,1 @@
-![bitto landing page](https://user-images.githubusercontent.com/29809702/27933927-5bfa4214-6271-11e7-9a6a-ad7114024b6f.jpg)
+![bitto landing page](https://user-images.githubusercontent.com/29809702/27933927-5bfa4214-6271-11e7-9a6a-ad7114024b6f.jpg) <height=100%, width=100%>
